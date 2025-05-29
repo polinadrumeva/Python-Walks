@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u043E\u043B\u0438\\Projects\\Python-Walks\\IsPrime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18CF9445-B29B-40B8-B9D0-4130FCBC73F8}|IsPrime.pyproj|C:\\\u041F\u043E\u043B\u0438\\Projects\\Python-Walks\\IsPrime\\IsPrime.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{18CF9445-B29B-40B8-B9D0-4130FCBC73F8}|IsPrime.pyproj|solutionrelative:IsPrime.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IsPrime.py",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\\Projects\\Python-Walks\\IsPrime\\IsPrime.py",
+              "RelativeDocumentMoniker": "IsPrime.py",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\\Projects\\Python-Walks\\IsPrime\\IsPrime.py",
+              "RelativeToolTip": "IsPrime.py",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-29T09:56:11.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
